@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins', sans-serif;
+}
+
+body {
+  background-color: #262222;
+}
+
+.container {
+  margin: 50px auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  background-color: #0a0808;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  padding: 2px 50px;
+}
+
+footer {
+  padding: 0px 20px;
+}
